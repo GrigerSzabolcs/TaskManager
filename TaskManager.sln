@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager", "TaskManager\TaskManager.csproj", "{2A716250-BE26-46A0-A3A3-BF2268509EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerWpf", "TaskManagerWpf\TaskManagerWpf.csproj", "{103EA721-60EF-468E-B211-EE4CE0D1DB33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A716250-BE26-46A0-A3A3-BF2268509EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A716250-BE26-46A0-A3A3-BF2268509EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A716250-BE26-46A0-A3A3-BF2268509EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A716250-BE26-46A0-A3A3-BF2268509EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103EA721-60EF-468E-B211-EE4CE0D1DB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103EA721-60EF-468E-B211-EE4CE0D1DB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103EA721-60EF-468E-B211-EE4CE0D1DB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103EA721-60EF-468E-B211-EE4CE0D1DB33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FD2459F-0FD2-4557-A196-E552447C8C72}
+	EndGlobalSection
+EndGlobal
